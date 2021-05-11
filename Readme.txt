@@ -1,5 +1,9 @@
 #Easy Jewellery Management
 
+# Fake-News-Verifier-Apk
+An app will help you to verify news
+
+
 1. Run Easy_Jewellery_Management_Setup.msi
 2. Install All Prerequisites 32bit or 64bit as per your pc
 	1. Install SqlLocalDB 2016
