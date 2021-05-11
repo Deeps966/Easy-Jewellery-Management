@@ -9,3 +9,5 @@
 4. Register your license key
 
 For license you need a trial for that to send request license key mail to shahdeep966@gmail.com
+
+Credits: @Deep Shah
