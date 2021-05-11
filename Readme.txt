@@ -5,3 +5,5 @@
 	3. SQLCMD
 3. Easy Jewellery Mangement is Successfully installed on your pc 
 4. Register your license key
+
+For license you need a trial for that to send request license key mail to shahdeep966@gmail.com
